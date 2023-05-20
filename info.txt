@@ -1,6 +1,4 @@
 hello all
-<<<<<<< HEAD
 git is done by rakesh
-=======
 git is done by remote
->>>>>>> 78378db813fa2109060e26649d8b73cdc5a59840
+this is done by rakesh

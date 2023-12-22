@@ -1,0 +1,13 @@
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\netcoreapp2.2\dotnet-core-tutorial.deps.json
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\netcoreapp2.2\dotnet-core-tutorial.runtimeconfig.json
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\netcoreapp2.2\dotnet-core-tutorial.runtimeconfig.dev.json
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\netcoreapp2.2\dotnet-core-tutorial.dll
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\netcoreapp2.2\dotnet-core-tutorial.pdb
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\netcoreapp2.2\dotnet-core-tutorial.csproj.AssemblyReference.cache
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\netcoreapp2.2\dotnet-core-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\netcoreapp2.2\dotnet-core-tutorial.AssemblyInfoInputs.cache
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\netcoreapp2.2\dotnet-core-tutorial.AssemblyInfo.cs
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\netcoreapp2.2\dotnet-core-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\netcoreapp2.2\dotnet-core-tutorial.dll
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\netcoreapp2.2\dotnet-core-tutorial.pdb
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\netcoreapp2.2\dotnet-core-tutorial.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\net8.0\dotnet-core-tutorial.exe
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\net8.0\dotnet-core-tutorial.deps.json
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\net8.0\dotnet-core-tutorial.runtimeconfig.json
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\net8.0\dotnet-core-tutorial.dll
+C:\Users\rakeshy\dotnet-core-tutorial\bin\Debug\net8.0\dotnet-core-tutorial.pdb
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\net8.0\dotnet-core-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\net8.0\dotnet-core-tutorial.AssemblyInfoInputs.cache
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\net8.0\dotnet-core-tutorial.AssemblyInfo.cs
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\net8.0\dotnet-core-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\net8.0\dotnet-core-tutorial.dll
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\net8.0\refint\dotnet-core-tutorial.dll
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\net8.0\dotnet-core-tutorial.pdb
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\net8.0\dotnet-core-tutorial.genruntimeconfig.cache
+C:\Users\rakeshy\dotnet-core-tutorial\obj\Debug\net8.0\ref\dotnet-core-tutorial.dll

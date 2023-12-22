@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = dotnet-core-tutorial
+build_property.ProjectDir = C:\Users\rakeshy\dotnet-core-tutorial\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

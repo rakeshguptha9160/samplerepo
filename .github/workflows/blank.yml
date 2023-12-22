@@ -32,7 +32,7 @@ jobs:
         name: dotnet-core
         path: dotnet-core-tutorial\deploy.zip # or path/to/artifact
     - name: Deploy to EB
-      uses: aws-actions/configure-elastic-beanstalk@v1
+      uses: samplerepo
       with:
         aws_access_key: AKIATPY4SXRDS2D33FJI
         aws_secret_key: ryyLptRiGkwS5kKYB5BgG/cWqzMpYmk6TFrAs6PN

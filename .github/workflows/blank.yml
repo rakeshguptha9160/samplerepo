@@ -34,8 +34,8 @@ jobs:
     - name: Deploy to EB
       uses: samplerepo
       with:
-        aws_access_key: AKIATPY4SXRDS2D33FJI
-        aws_secret_key: ryyLptRiGkwS5kKYB5BgG/cWqzMpYmk6TFrAs6PN
+        aws_access_key: ${{ secrets.ACCESS_KEY }}
+        aws_secret_key: ${{ secrets.SECRET_ACCESS_KEY }}
         application_name: test12
         environment_name: Test12-env
         version_label: ${{github.sha}}-env

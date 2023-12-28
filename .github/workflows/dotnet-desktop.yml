@@ -20,14 +20,9 @@ jobs:
     steps:
     
     
-    - name: Build with MSBuild
-      run: msbuild dotnet-core-tutorial\dotnet-core-tutorial.csproj -p:Configuration=Staging -p:DeployIisAppPath="Default Web Site" -p:OutputPath=\ -t:Package -p:PackageLocation=deploy.zip
-    - uses: actions/upload-artifact@v3
-      with:
-        name: dotnet-core
-        path: dotnet-core-tutorial\deploy.zip # or path/to/artifact
+    
     - name: Deploy to EB
-      uses: samplerepo1
+      uses: samplerepo
       with:
         aws_access_key: ${{ secrets.ACCESS_KEY }}
         aws_secret_key: ${{ secrets.SECRET_ACCESS_KEY }}

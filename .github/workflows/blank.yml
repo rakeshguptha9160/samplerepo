@@ -18,13 +18,17 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
-    
+    - name: chekout
+      uses: actions/checkout@v2
+    - name: Setup Nuget.exe
+      uses: nuget/setup-nuget@v1
+    - name: Restore packages
+      run: nuget restore dotnet-core-tutorial
+    - name: Setup MSBuild.exe
+      uses: microsoft/setup-msbuild@v1.0.2
+    - name: Build with MSBuild
+      run: msbuild dotnet-core-tutorial\dotnet-core-tutorial.csproj -p:Configuration=Staging -p:DeployIisAppPath="Default Web Site" -p:OutputPath=\ -t:Package -p:PackageLocation=deploy.zip
+    - uses: actions/upload-artifact@v3
       with:
-        aws_access_key: ${{ secrets.ACCESS_KEY }}
-        aws_secret_key: ${{ secrets.SECRET_ACCESS_KEY }}
-        application_name: test12
-        environment_name: Test12-env
-        version_label: ${{github.sha}}-env
-        region: ap-south-1
-        deployment_package: dotnet-core-tutorial\deploy.zip
+        name: dotnet-core
+        path: dotnet-core-tutorial\deploy.zip # or path/to/artifact

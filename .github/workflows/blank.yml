@@ -23,7 +23,7 @@ jobs:
     - name: Setup Nuget.exe
       uses: nuget/setup-nuget@v1
     - name: Restore packages
-      run: nuget restore dotnet-core-tutorial
+      run: dotnet restore dotnet-core-tutorial
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v1.0.2
     - name: Build with MSBuild
